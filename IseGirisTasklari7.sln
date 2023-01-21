@@ -19,6 +19,12 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IseGirisTasklari7.Persistan
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IseGirisTasklari7.Presentation", "IseGirisTasklari7.Presentation\IseGirisTasklari7.Presentation.csproj", "{2BA95A44-DAF5-4347-8D6B-8DB24230F8D4}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{CC3A63B7-2E9C-4424-B152-9812C79C30AB}"
+	ProjectSection(SolutionItems) = preProject
+		..\..\Users\taner\OneDrive\Documents\script.ipynb = ..\..\Users\taner\OneDrive\Documents\script.ipynb
+		..\..\Users\taner\OneDrive\Documents\script.sql = ..\..\Users\taner\OneDrive\Documents\script.sql
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
